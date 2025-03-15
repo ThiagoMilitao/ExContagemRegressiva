@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\exContagemRegressiva\\exContagemRegressiva.csproj": {}
+    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\ExContagemRegressiva\\exContagemRegressiva.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\exContagemRegressiva\\exContagemRegressiva.csproj": {
+    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\ExContagemRegressiva\\exContagemRegressiva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\exContagemRegressiva\\exContagemRegressiva.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\ExContagemRegressiva\\exContagemRegressiva.csproj",
         "projectName": "exContagemRegressiva",
-        "projectPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\exContagemRegressiva\\exContagemRegressiva.csproj",
+        "projectPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\ExContagemRegressiva\\exContagemRegressiva.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\exContagemRegressiva\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista1\\ExContagemRegressiva\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"
