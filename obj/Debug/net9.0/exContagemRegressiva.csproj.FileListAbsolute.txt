@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\bin\Debug\net9.0\exContagemRegressiva.exe
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\bin\Debug\net9.0\exContagemRegressiva.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\bin\Debug\net9.0\exContagemRegressiva.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\bin\Debug\net9.0\exContagemRegressiva.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\bin\Debug\net9.0\exContagemRegressiva.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\refint\exContagemRegressiva.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\exContagemRegressiva.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\exContagemRegressiva\obj\Debug\net9.0\ref\exContagemRegressiva.dll
